@@ -17,7 +17,7 @@ import android.view.MenuItem;
  */
 public class QuestionDetailActivity extends ActionBarActivity {
 
-	@Override
+	@Override 
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_question_detail);
